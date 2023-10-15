@@ -1,0 +1,7 @@
+*{
+    background-color: red;
+}
+.one{
+    color: green;
+    display: flex;
+}
